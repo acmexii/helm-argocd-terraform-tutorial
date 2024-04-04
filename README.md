@@ -3,8 +3,9 @@
 A tutorial for deploying a simple application using Helm and ArgoCD.
 
 
-# terraform
+## Install Terraform
 
+## Execute Terraform
 - terraform init
 - terraform plan
 - terraform apply
